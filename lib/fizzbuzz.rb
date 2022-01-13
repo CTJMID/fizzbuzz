@@ -1,0 +1,6 @@
+def fizzbuzz(number)
+
+
+
+
+end
